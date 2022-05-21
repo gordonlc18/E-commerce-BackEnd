@@ -47,17 +47,19 @@ _by Latravia Gordon_</br>
 
 # Usage
 
-![ORM](./assets/images/Insomnia.gif)
+![ORM](/Develop/./assets/images/Insomnia.gif)
 
-<!-- # Walkthrough -->
+# Walkthrough
+
+Walkthrough video can be found via [YouTube](https://youtu.be/lRZn0WGreTA).
 
 # Screenshot
 
 <!-- ![CreateProduct](./assets/images/createProd.jpeg) -->
 
-![DeleteCategory](./assets/images/deleteCat.jpeg)
-![UpdateCategory](./assets/images/updateCat.jpeg)
-![UpdateTag](./assets/images/updateTag.jpeg)
+![DeleteCategory](/Develop/./assets/images/deleteCat.jpeg)
+![UpdateCategory](/Develop/./assets/images/updateCat.jpeg)
+![UpdateTag](/Develop/./assets/images/updateTag.jpeg)
 
 ## Tests
 
