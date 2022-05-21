@@ -4,11 +4,14 @@ _by Latravia Gordon_</br>
 
 ## Description
 
+> > > Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites. </br> Your challenge is to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+
 ## Table of Contents
 
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+  <!-- - [Walkthrough](#walkthrough) -->
   - [Screenshot](#screenshot)
 - [Tests](#tests)
 - [Questions](#questions)
@@ -40,15 +43,25 @@ _by Latravia Gordon_</br>
 
 ## Installation
 
+- To install, clone this repository then make sure to have `Node.js`,`Express,.js`, and `Sequelize` installed. </br> `MySQL` is the database used with this project and because it is password protected, make sure to create a `.env` file and install the `dotenv` dependency. </br> Use `npm run seed` to seed the database, then connect to the server by running `npm start` or `node server`.
+
 # Usage
 
-![E-commerce-BackEnd]()
+![ORM](./assets/images/Insomnia.gif)
 
-[Video Demo]()
+<!-- # Walkthrough -->
 
 # Screenshot
 
+<!-- ![CreateProduct](./assets/images/createProd.jpeg) -->
+
+![DeleteCategory](./assets/images/deleteCat.jpeg)
+![UpdateCategory](./assets/images/updateCat.jpeg)
+![UpdateTag](./assets/images/updateTag.jpeg)
+
 ## Tests
+
+- There are no test for this application.
 
 ## Questions
 
